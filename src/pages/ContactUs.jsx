@@ -9,7 +9,7 @@ const ContactUs = () => {
             alt="Sunset in the mountains"
           />
           <div className="text-center px-6 py-4">
-            <div className="font-bold text-xl mb-2">Toshifur Rahman Tasin</div>
+            <div className="font-bold text-xl mb-2"><a href="https://toshifurrahman.github.io/Portfolio-01/?fbclid=IwAR2AiAe7sxbDsOvaQIgTMtA3RqX_lONmea2wdrhVAUZUykKsbbcp4FLBMMg" className="hover:underline ">Toshifur Rahman Tasin</a></div>
             <p className="text-gray-700 text-base">
             <p className="text-white">Q/A Manager</p>
              <p className="text-white">C213021</p>
@@ -23,7 +23,7 @@ const ContactUs = () => {
             alt="Sunset in the mountains"
           />
           <div className="text-center px-6 py-4">
-            <div className="font-bold text-xl mb-2">Mokaddes Hossain Adnan</div>
+            <div className="font-bold text-xl mb-2"><a href="https://github.com/Adnan4141" className="hover:underline ">Mokaddes Hossain Adnan</a></div>
             <p className="text-gray-700 text-base">
             <p className="text-white">Developer</p>
             <p className="text-white">C213001</p>
@@ -37,7 +37,7 @@ const ContactUs = () => {
             alt="Sunset in the mountains"
           />
           <div className="text-center px-6 py-4">
-            <div className="font-bold text-xl mb-2">Al-Fahad</div>
+            <div className="font-bold text-xl mb-2"><a href="https://al-fahad4889.github.io/My-Portfolio/" className="hover:underline ">Al-Fahad</a></div>
             <p className="text-gray-700 text-base">
             <p className="text-white">UI/UX Designer</p>
              <p className="text-white">C213001</p>
